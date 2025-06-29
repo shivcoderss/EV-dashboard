@@ -28,7 +28,7 @@ A Streamlit-based data visualization dashboard for exploring specifications of e
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ev-dashboard.git
+git clone https://github.com/shivcoderss/ev-dashboard.git
 cd ev-dashboard
 ```
 
